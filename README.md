@@ -1,30 +1,24 @@
-# Perkeep is your personal storage system.
-
-> It's a way to store, sync, share, import, model, and back up content.  Keep your stuff for life.
-
-### For more, see
-
-- [Perkeep Home](https://perkeep.org/)
-- [Perkeep Docs](https://perkeep.org/doc/)
-
-### Other useful files
-
-- [BUILDING](BUILDING) - how to compile it ("go run make.go")
-- [CONTRIBUTING](CONTRIBUTING.md) - how to do development and contribute
-
-### Perkeep Resources
-
-- [Community](http://perkeep.org/community)
-- [Bugs and Issues](https://github.com/perkeep/perkeep/issues)
-- [Contributing](https://perkeep.org/code#contributing)
-
-### Continuous Integration
-
-[![Linux Test Status](https://github.com/perkeep/perkeep/workflows/tests/linux/badge.svg)](https://github.com/perkeep/perkeep/actions?query=workflow:tests/linux)
-[![Windows Test Status](https://github.com/perkeep/perkeep/workflows/tests/windows/badge.svg)](https://github.com/perkeep/perkeep/actions?query=workflow:tests/windows)
-
-### Code of Conduct
-
-Please note that this project uses a
-[Contributor Code of Conduct](https://opensource.google.com/conduct/).
-By participating in this project you agree to abide by its terms.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perkeep 是您的个人存储系统。</font></font></h1><a id="user-content-perkeep-is-your-personal-storage-system" class="anchor" aria-label="永久链接：Perkeep 是您的个人存储系统。" href="#perkeep-is-your-personal-storage-system"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一种存储、同步、共享、导入、建模和备份内容的方法。可终身保存您的内容。</font></font></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关详细信息，请参阅</font></font></h3><a id="user-content-for-more-see" class="anchor" aria-label="永久链接：更多信息，请参阅" href="#for-more-see"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://perkeep.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">佩克普家居</font></font></a></li>
+<li><a href="https://perkeep.org/doc/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perkeep 文档</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他有用文件</font></font></h3><a id="user-content-other-useful-files" class="anchor" aria-label="永久链接：其他有用文件" href="#other-useful-files"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="/perkeep/perkeep/blob/master/BUILDING"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何编译它（“go run make.go”）</font></font></li>
+<li><a href="/perkeep/perkeep/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何进行开发和贡献</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perkeep 资源</font></font></h3><a id="user-content-perkeep-resources" class="anchor" aria-label="永久链接：Perkeep 资源" href="#perkeep-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://perkeep.org/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></a></li>
+<li><a href="https://github.com/perkeep/perkeep/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误和问题</font></font></a></li>
+<li><a href="https://perkeep.org/code#contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">持续集成</font></font></h3><a id="user-content-continuous-integration" class="anchor" aria-label="永久链接：持续集成" href="#continuous-integration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/perkeep/perkeep/actions?query=workflow:tests/linux"><img src="https://github.com/perkeep/perkeep/workflows/tests/linux/badge.svg" alt="Linux 测试状态" style="max-width: 100%;"></a>
+<a href="https://github.com/perkeep/perkeep/actions?query=workflow:tests/windows"><img src="https://github.com/perkeep/perkeep/workflows/tests/windows/badge.svg" alt="Windows 测试状态" style="max-width: 100%;"></a></p>
+</article></div>
